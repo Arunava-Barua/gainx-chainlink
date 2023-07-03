@@ -682,7 +682,7 @@
     },
     {
       "inputs": [],
-      "name": "getLINKtoMATIC",
+      "name": "getLINKtoFTM",
       "outputs": [
         {
           "internalType": "int256",
@@ -789,7 +789,7 @@
     },
     {
       "inputs": [],
-      "name": "getMATICtoUSD",
+      "name": "getFTMtoUSD",
       "outputs": [
         {
           "internalType": "int256",

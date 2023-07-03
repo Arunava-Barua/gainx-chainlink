@@ -35,7 +35,7 @@ const items = [
                     </div>
                 </article>
                 <article>
-                    <h6>Information automatically collected</h6>
+                    <h6>Information autoFTMally collected</h6>
                     <div>
                         <p>
                             Aspernatur quis quo doloribus distinctio sint qui
@@ -104,7 +104,7 @@ const items = [
                     </div>
                 </article>
                 <article>
-                    <h6>Information automatically collected</h6>
+                    <h6>Information autoFTMally collected</h6>
                     <div>
                         <p>
                             Aspernatur quis quo doloribus distinctio sint qui
