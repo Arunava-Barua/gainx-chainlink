@@ -13,7 +13,7 @@ import { useRouter } from "next/router";
 
 const CreateLendContext = createContext({});
 
-const gainxContractAddress = "0xd21cae78Cc29F4F0896e26F03c82366f02a5Bd6d";
+const gainxContractAddress = "0x934fAa2B4448f8D4a2dF2EBa290C94867cB33c7c";
 // const gainxTokenContractAddress = "0xd4e6eC0202F1960dA896De13089FF0e4A07Db4E9";
 const redeemGainxContractAddress = "0x214d590d3E42576553DC31f8633580A98aa982aC";
 
@@ -44,7 +44,7 @@ export const CreateLendProvider = ({ children }) => {
   const [myNftForm, setMyNftForm] = useState({
     nftAddress: "",
     nftId: "",
-    chain: "Polygon Mumbai",
+    chain: "Fantom",
     estimatedAmount: "",
     tenure: "",
     apy: "",
